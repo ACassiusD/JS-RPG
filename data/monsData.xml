@@ -1,0 +1,17 @@
+<mons>
+	<mon>
+		<name>Bogey</name>
+		<type>Ghost</type>
+		<attack>Evade</attack>
+	</mon>
+	<mon>
+		<name>Big guy</name>
+		<type>Rock</type>
+		<attack>Big hit</attack>
+	</mon>
+	<mon>
+		<name>Pepe</name>
+		<type>Water</type>
+		<attack>Bad feels</attack>	
+	</mon>
+</mons>

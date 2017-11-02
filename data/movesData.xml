@@ -1,0 +1,20 @@
+<moves>
+	<move>
+		<move_name>evade</att_name>
+		<move_desc>doesn't actually dodge the attack but lets the other player know he needs to go and see his girlfriend soon.</att_desc>
+		<move_type>grass</att_type>
+		<move_pow>50</att_pow>	
+	</move>
+	<move>
+		<move_name>big_hit</att_name>
+		<move_desc>slams the ground</att_desc>
+		<move_type>ground</att_type>
+		<move_pow>200</att_pow>
+	</move>
+	<move>
+		<move_name>bad_feels</att_name>
+		<move_desc>Makes the opponent feel bad man.</att_desc>
+		<move_type>Water</att_type>
+		<move_pow>150</att_pow>		
+	</move>
+</moves>

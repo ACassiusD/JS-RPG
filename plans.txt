@@ -1,0 +1,14 @@
+Custom battle system
+playerChar;
+enemy;
+load xml
+
+//get XML for just that character
+//go through all mons in XML for that character
+//Store list of names of mons in temp array
+//make sure arry > 0
+//open mons xml 
+
+for each name in temparray
+get xml for that mon
+	
